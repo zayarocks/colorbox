@@ -3,7 +3,7 @@
 
 wall = 5;
 floor = 3;
-height = 25.4;
+height = 25;
 
 width = 265;
 length = 190;
